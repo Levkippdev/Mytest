@@ -1,0 +1,85 @@
+/*
+<header>
+  <img src="img/profile.jpg">
+  <h1>Jack Frost</h1>
+  <h2>Guardian of Fun</h2>
+</header>
+*/
+
+html, body{
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header{
+  background-color: #0d6094;
+  padding: 40px;
+  text-align: center;
+}
+
+h1{
+  font-size: 90px;
+  color: #fff;
+}
+
+h3{
+  font-size: 40px;
+  color: #0d6094;
+}
+
+p{
+  font-size: 18px;
+}
+
+li{
+  font-size: 18px;
+}
+
+header img{
+  border-radius: 180px;
+  width: 300px;
+  border: 10px solid #fff;
+}
+
+.content{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+img.big-image{
+  max-width: 100%;
+}
+
+p.caption{
+  font-size: 16px;
+  color: lightgrey;
+  font-style: italic;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a{
+  color: #0d6094;
+  text-decoration: none;
+}
+
+footer{
+  margin-top: 20px;
+  padding: 40px 20px;
+  background-color: #E6E6E6;
+}
+
+footer ul{
+  text-align: center;
+}
+
+footer ul li{
+  font-size: 16px;
+  display: inline-block;
+  margin: 0 5px;
+}
