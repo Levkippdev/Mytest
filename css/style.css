@@ -12,33 +12,34 @@ html, body{
 }
 
 header{
-  background-color: #0d6094;
+  background-color: #fff;
   padding: 40px;
   text-align: center;
 }
 
 h1{
   font-size: 90px;
-  color: #fff;
+  color: #0d6094;
 }
 
 h3{
-  font-size: 40px;
+  font-size: 26px;
   color: #0d6094;
 }
 
 p{
-  font-size: 18px;
+  font-size: 14px;
 }
 
 li{
-  font-size: 18px;
+  font-size: 14px;
 }
 
 header img{
-  border-radius: 180px;
+/*border-radius: 180px;
   width: 300px;
-  border: 10px solid #fff;
+  border: 10px solid #fff;*/
+  width: 250px;
 }
 
 .content{
@@ -79,7 +80,7 @@ footer ul{
 }
 
 footer ul li{
-  font-size: 16px;
+  font-size: 14px;
   display: inline-block;
   margin: 0 5px;
 }
